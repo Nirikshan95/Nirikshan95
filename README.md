@@ -1,7 +1,7 @@
 # 🌟 Mahesh Ketam | AI Innovator & Machine Learning Maestro
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Mahesh%20Ketam&fontSize=70&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=MAHESH%20KETAM&fontSize=70&animation=fadeIn" width="100%">
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Nirikshan95&style=flat-square" alt="Profile Views">
