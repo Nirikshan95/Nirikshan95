@@ -23,13 +23,16 @@
 <table>
   <tr>
     <td width="60%">
-      <p>As an AI professional with 3 years of hands-on experience, I'm passionate about developing cutting-edge machine learning models that drive innovation. My journey is fueled by a relentless curiosity to explore the infinite potential of artificial intelligence.</p>
+      <p>Hi, I'm <b>MAHESH KETAM</b> — an aspiring AI Engineer passionate about solving real-world problems through Machine Learning, Deep Learning, and Next-Gen AI systems.
+
+I love building projects that merge Computer Vision, Natural Language Processing (NLP), and Agentic AI, leveraging tools like LangChain, LangGraph, and LLMs to create intelligent and autonomous applications.</p>
     </td>
     <td width="40%">
       <h3>🎓 Education</h3>
       <ul>
-        <li>Bachelor's in Computer Science</li>
-        <li>Jayamukhi Institute of Technological Sciences</li>
+        <li>Bachelor's in Computer Science from Jayamukhi Institute of Technological Sciences</li>
+        <li>Applied AI Lab from World Quant University</li>
+        <li>#100DaysOfAI  from !00 School</li>
       </ul>
     </td>
   </tr>
@@ -78,11 +81,16 @@
 
 ```mermaid
 timeline
-    title Professional Milestones
-    2021 : Started AI Journey
-    2023 : Machine Learning Intern at TechnoHacks
-    2023 : Advanced Data Science Intern at YBI Foundation
-    2024 : #100DaysOfAI Challenge
+    title Mahesh Ketam – AI Engineering Journey
+
+    2018 : 🖥️ Initiated Tech Journey – Explored system basics, HTML & CSS
+    2019 : 💡 Learned Python & C – Developed problem-solving foundations (favored Python)
+    2020 : 🛠️ Built GUI Apps – Created desktop tools using Tkinter
+    2021 : 🌐 Tech Exploration – Dabbled in various domains to find my passion
+    2022 : 📚 Core CS with B.Tech – Mastered C, C++, DSA, OOP through academics
+    2023 : 🎯 Found My Niche – Attended AI/ML bootcamps, grasped AI fundamentals
+    2024 : 🚀 Real-World AI Projects – | • Pandas Bootcamp (Data Analysis)| • ML Internship at YBI Foundation| • Completed #100DaysOfAI Challenge| • Launched AI Portfolio Website
+    2025 : 🤖 AI Engineer Intern @ WitsenseAI –|• Learning GenAI, API development, Deployment| • Transitioning to Agentic AI (LangGraph, LangChain)
 ```
 ## 💼 Professional Experience
 
@@ -155,6 +163,12 @@ This role is providing me hands-on experience with AI tools, machine learning al
 ## 🔥 Featured Repos
 - 🔍 [VettIQ - AI Startup Validator](https://github.com/Nirikshan95/VettIQ)  
   `LangGraph` · `Streamlit` · `FastAPI` · `DeepSeek`
+- 🔍 [Product Review Analyzer](https://github.com/Nirikshan95/Product-Review-Analyzer)  
+  `LangChain` · `LLM` · `Pydantic` 
+- 🔍 [Defective Products Detection](https://github.com/Nirikshan95/Defective-Products-Detection)  
+  `CNN` · `Deep Learning` · `Neural Networks` · `Computer Vision`
+- 🔍 [Quality Prediction in a Mining Process](https://github.com/Nirikshan95/Quality-Prediction-in-a-Mining-Process)  
+  `Machine Learning` · `Scikit-Learn` · `pandas` · `DataScience`
 
 ## 📈 GitHub Stats & Contributions
 
@@ -176,8 +190,23 @@ This role is providing me hands-on experience with AI tools, machine learning al
     </tr>
     <tr>
       <td>🎯 #100DaysOfAI Challenge</td>
-      <td>Completed intensive 100-day AI learning and implementation marathon</td>
+      <td>Completed intensive 100-day AI learning and implementation marathon and achived Badge</td>
       <td>2024</td>
+    </tr>
+    <tr>
+      <td>🤖 Pandas Bootcamp</td>
+      <td>Successfully completed intensive pandas and data anlytics boot camp </td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>🤖 Machine Learning Internships</td>
+      <td>Successfully completed internships </td>
+      <td>2024 - 2025</td>
+    </tr>
+    <tr>
+      <td>🤖 #100DaysOfAI Portfolio</td>
+      <td>Successfully launched my #100DaysOfAI challenge portfolio website</td>
+      <td>2024 </td>
     </tr>
     <tr>
       <td>📚 AI 'Zero to Hero' Course</td>
@@ -185,9 +214,9 @@ This role is providing me hands-on experience with AI tools, machine learning al
       <td>Ongoing</td>
     </tr>
     <tr>
-      <td>🤖 Machine Learning Internships</td>
-      <td>Successfully completed internships </td>
-      <td>2024 - 2025</td>
+      <td>📚 Applied AI Lab Course</td>
+      <td>Gaining hands-on experience throgh the AI Lab course</td>
+      <td>Ongoing</td>
     </tr>
   </table>
 </div>
