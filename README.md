@@ -56,11 +56,17 @@
 
 ### 🔬 Skill Proficiency
 
-| Skill Category | Proficiency | Highlights |
-|---------------|-------------|------------|
-| Machine Learning | ███████████████ 90% | NLP, Computer Vision |
-| Data Science | ██████████████ 85% | Statistical Analysis, Visualization |
-| AI Deployment | ████████████ 75% | Docker, Cloud Platforms |
+| Skill Category        | Proficiency          | Highlights                                                                    |
+| --------------------- | -------------------- | ----------------------------------------------------------------------------- |
+| **Machine Learning**  | ████████████████ 95% | Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering     |
+| **Deep Learning**     | ███████████████ 90%  | CNNs, RNNs, ANN, Transfer Learning, PyTorch, TensorFlow                       |
+| **NLP & LLMs**        | ███████████████ 90%  | Transformers, LangChain, RAG, Embeddings, Prompt Engineering                  |
+| **Data Science**      | ██████████████ 85%   | EDA, Statistical Analysis, Data Cleaning, Visualization (Matplotlib, Seaborn) |
+| **Agentic AI**        | ████████████ 80%     | LangGraph, Reflection Agents, Custom Toolchains                               |
+| **AI Deployment**     | ████████████ 75%     | FastAPI, Docker, Hugging Face Spaces, Streamlit                               |
+| **MLOps & Tools**     | ███████████ 70%      | Git, DVC, MLflow (basic), CI/CD                                               |
+| **Web Search & APIs** | ███████████ 70%      | Google Search API, SerpAPI, REST APIs                                         |
+| **Soft Skills**       | ██████████ 65%       | Communication, Teamwork, Documentation, Learning Agility                      |
 
 ## 🛠️ Technical Skills Visualization
 
@@ -80,18 +86,19 @@ timeline
 ```
 ## 💼 Professional Experience
 
-### 🚀 Machine Learning Intern at TechnoHacks
-*January 2023 - June 2023*
+### 🚀 AI Engineer Intern at WitsenseAI
+*January 2025 - June 2025*
 <details>
   <summary>Key Accomplishments</summary>
   
-  - 📈 Enhanced salary prediction models, improving accuracy by 10%
+  - 📈 Explored state-of-the-art AI techniques and tools to enhance project outcomes.
+This role is providing me hands-on experience with AI tools, machine learning algorithms, and practical exposure to addressing real-world challenges using AI.
   - 🤝 Collaborated across teams to integrate AI solutions
   - ⏱️ Reduced processing time by 15% through optimized implementations
 </details>
 
-### 🌐 Advanced Data Science and AI Intern at YBI Foundation
-*July 2023 - December 2023*
+### 🌐 Data Science and AI/ML Intern at YBI Foundation
+*March 2023 - September 2023*
 
 <details>
   <summary>Key Achievements</summary>
@@ -109,19 +116,45 @@ timeline
       <th>Project</th>
       <th>Description</th>
       <th>Technologies</th>
+      <th>Repo Link</th>
     </tr>
     <tr>
-      <td>🤖 Salary Prediction Model</td>
-      <td>Machine learning model for accurate salary estimation</td>
-      <td>Python, TensorFlow, Scikit-learn</td>
+      <td> Stock News Summarizer</td>
+      <td>For fetching the latest summarized news related to an specified comapany </td>
+      <td>Python, langchain, RAG, pydantic</td>
+      <td align="center"><a href="https://github.com/Nirikshan95/stock-news-summarizer" target="_blank">Click here</a></td>
     </tr>
     <tr>
-      <td>🍷 Wine Quality Predictor</td>
-      <td>Random forest classifier for wine quality assessment</td>
-      <td>Python, Scikit-learn, Pandas</td>
+      <td> Product-Review-Analyzer</td>
+      <td>AI-powered tool that extracts pros, cons, summary, and sentiment from product reviews using the DeepSeek-Prover-V2-671B model via a Streamlit interface.</td>
+      <td>Python, langchain, pydantic </td>
+      <td align="center"><a href="https://github.com/Nirikshan95/Product-Review-Analyzer" target="_blank">Click here</a></td>
     </tr>
+    <tr>
+      <td> AskMyYouTube</td>
+      <td> App that answers questions about any YouTube video using its transcript. Built using Retrieval-Augmented Generation (RAG) with LangChain, vector stores, and LLMs </td>
+      <td>Python, Langchain, RAG, Streamlit</td>
+      <td align="center"><a href="https://github.com/Nirikshan95/AskMyYouTube" target="_blank">Click here</a></td>
+    </tr>
+    <tr>
+      <td> LinkedIn Post Polisher</td>
+      <td>An agent system built with LangGraph to generate, critique, and refine professional LinkedIn posts using reflection pattern.</td>
+      <td>Python, LangGraph, Reflection Agent</td>
+      <td align="center"><a href="https://github.com/Nirikshan95/LinkedIn-Post-Polisher" target="_blank">Click here</a></td>
+    </tr>
+    <tr>
+      <td> Quiz Generator from Text</td>
+      <td>An AI-powered application that generates intelligent quiz questions from any input text using Hugging Face models.</td>
+      <td>Python, Langchain</td>
+      <td align="center"><a href="https://github.com/Nirikshan95/Quiz-Generator-from-Text" target="_blank">Click here</a></td>
+    </tr>
+    
   </table>
 </div>
+
+## 🔥 Featured Repos
+- 🔍 [VettIQ - AI Startup Validator](https://github.com/Nirikshan95/VettIQ)  
+  `LangGraph` · `Streamlit` · `FastAPI` · `DeepSeek`
 
 ## 📈 GitHub Stats & Contributions
 
@@ -153,8 +186,8 @@ timeline
     </tr>
     <tr>
       <td>🤖 Machine Learning Internships</td>
-      <td>Successfully completed internships at TechnoHacks and YBI Foundation</td>
-      <td>2023</td>
+      <td>Successfully completed internships </td>
+      <td>2024 - 2025</td>
     </tr>
   </table>
 </div>
