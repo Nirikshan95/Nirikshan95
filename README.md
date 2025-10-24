@@ -1,63 +1,54 @@
-# 🌟 Mahesh Ketam | AI Innovator & Machine Learning Maestro
+#  Mahesh Ketam | AI Innovator & Machine Learning Maestro
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=MAHESH%20KETAM&fontSize=70&animation=fadeIn" width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=MAHESH%20KETAM&fontSize=40&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=MAHESH%20KETAM&fontSize=70&animation=fadeIn" width="100%" alt="Header">
+  </picture>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Nirikshan95&style=flat-square" alt="Profile Views">
     <a href="https://linkedin.com/in/mahesh-ketam">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:nirikshan987654321@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email">
     </a>
   </p>
 </div>
 
-## 💡 Mission Statement
+##  Mission Statement
 
 > **Transforming complex data into intelligent solutions, one model at a time. Committed to pushing the boundaries of AI and machine learning to solve real-world challenges.**
 
-## 🌟 About Me
+---
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>Hi, I'm <b>MAHESH KETAM</b> — an aspiring AI Engineer passionate about solving real-world problems through Machine Learning, Deep Learning, and Next-Gen AI systems.
+##  About Me
 
-I love building projects that merge Computer Vision, Natural Language Processing (NLP), and Agentic AI, leveraging tools like LangChain, LangGraph, and LLMs to create intelligent and autonomous applications.</p>
-    </td>
-    <td width="40%">
-      <h3>🎓 Education</h3>
-      <ul>
-        <li>Bachelor's in Computer Science from Jayamukhi Institute of Technological Sciences</li>
-        <li>Applied AI Lab from World Quant University</li>
-        <li>#100DaysOfAI  from !00 School</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Hi, I'm **MAHESH KETAM** — an aspiring AI Engineer passionate about solving real-world problems through Machine Learning, Deep Learning, and Next-Gen AI systems.
 
-## 🚀 Quick Glimpse
+I love building projects that merge Computer Vision, Natural Language Processing (NLP), and Agentic AI, leveraging tools like LangChain, LangGraph, and LLMs to create intelligent and autonomous applications.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 Mission</h3>
-      <p>Transforming complex data into intelligent solutions, bridging the gap between artificial intelligence and real-world challenges.</p>
-    </td>
-    <td width="50%">
-      <h3>📊 At a Glance</h3>
-      <ul>
-        <li>🏆 3+ Years in AI/ML</li>
-        <li>🎓 Computer Science Graduate</li>
-        <li>🌐 Full-Stack AI Enthusiast</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+###  Education
+- **Bachelor's in Computer Science** - Jayamukhi Institute of Technological Sciences
+- **Applied AI Lab** - World Quant University
+- **#100DaysOfAI** - 100 School
 
-### 🔬 Skill Proficiency
+---
+
+##  Quick Glimpse
+
+<div align="center">
+
+|  Mission |  At a Glance |
+|------------|----------------|
+| Transforming complex data into intelligent solutions, bridging the gap between artificial intelligence and real-world challenges. |  3+ Years in AI/ML<br> Computer Science Graduate<br> Full-Stack AI Enthusiast |
+
+</div>
+
+---
+
+###  Skill Proficiency
 
 | Skill Category        | Proficiency          | Highlights                                                                    |
 | --------------------- | -------------------- | ----------------------------------------------------------------------------- |
@@ -71,207 +62,170 @@ I love building projects that merge Computer Vision, Natural Language Processing
 | **Web Search & APIs** | ███████████ 70%      | Google Search API, SerpAPI, REST APIs                                         |
 | **Soft Skills**       | ██████████ 65%       | Communication, Teamwork, Documentation, Learning Agility                      |
 
-## 🛠️ Technical Skills Visualization
+
+</details>
+
+---
+
+##  Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,docker,flask,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,flask,git,github&perline=7" alt="Tech Stack" />
 </div>
 
-### 🚀 Interactive Timeline
+---
+
+##  My Journey
 
 ```mermaid
 timeline
-    title Mahesh Ketam – AI Engineering Journey
-
-    2018 : 🖥️ Initiated Tech Journey – Explored system basics, HTML & CSS
-    2019 : 💡 Learned Python & C – Developed problem-solving foundations (favored Python)
-    2020 : 🛠️ Built GUI Apps – Created desktop tools using Tkinter
-    2021 : 🌐 Tech Exploration – Dabbled in various domains to find my passion
-    2022 : 📚 Core CS with B.Tech – Mastered C, C++, DSA, OOP through academics
-    2023 : 🎯 Found My Niche – Attended AI/ML bootcamps, grasped AI fundamentals
-    2024 : 🚀 Real-World AI Projects – | • Pandas Bootcamp (Data Analysis)| • ML Internship at YBI Foundation| • Completed #100DaysOfAI Challenge| • Launched AI Portfolio Website
-    2025 : 🤖 AI Engineer Intern @ WitsenseAI –|• Learning GenAI, API development, Deployment| • Transitioning to Agentic AI (LangGraph, LangChain)
+    title AI Engineering Journey
+    2018 :  Tech Foundations
+         : HTML, CSS, System Basics
+    2019 :  Programming Core
+         : Python & C Mastery
+    2020 :  GUI Development
+         : Desktop Apps with Tkinter
+    2021 :  Domain Exploration
+         : Finding My Passion
+    2022 :  CS Fundamentals
+         : DSA, OOP, C/C++
+    2023 :  AI Specialization
+         : ML Bootcamps & Fundamentals
+    2024 :  Project Portfolio
+         : Real-World AI Applications
+    2025 :  Professional AI
+         : GenAI & Agentic Systems
 ```
-## 💼 Professional Experience
 
-### 🚀 AI Engineer Intern at WitsenseAI
-*January 2025 - June 2025*
-<details>
-  <summary>Key Accomplishments</summary>
-  
-  - 📈 Explored state-of-the-art AI techniques and tools to enhance project outcomes.
-This role is providing me hands-on experience with AI tools, machine learning algorithms, and practical exposure to addressing real-world challenges using AI.
-  - 🤝 Collaborated across teams to integrate AI solutions
-  - ⏱️ Reduced processing time by 15% through optimized implementations
-</details>
+---
 
-### 🌐 Data Science and AI/ML Intern at YBI Foundation
-*March 2023 - September 2023*
+##  Professional Experience
 
-<details>
-  <summary>Key Achievements</summary>
-  
-  - 🎯 Achieved 100% accuracy in iris classification using logistic regression
-  - 🍷 Developed wine quality prediction model with 90% accuracy
-  - 🔍 Conducted comprehensive model evaluations and performance improvements
-</details>
+###  AI Engineer Intern | WitsenseAI
+**January 2025 - June 2025**
 
-## 📦 Featured Projects
+-  Exploring state-of-the-art AI techniques and tools
+-  Hands-on experience with GenAI, API development, and deployment
+-  Transitioning to Agentic AI (LangGraph, LangChain)
+
+###  Data Science & AI/ML Intern | YBI Foundation
+**March 2023 - September 2023**
+
+-  Achieved 100% accuracy in iris classification
+-  Developed wine quality prediction model (90% accuracy)
+-  Conducted comprehensive model evaluations
+
+---
+
+##  Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-      <th>Repo Link</th>
-    </tr>
-    <tr>
-      <td> Stock News Summarizer</td>
-      <td>For fetching the latest summarized news related to an specified comapany </td>
-      <td>Python, langchain, RAG, pydantic</td>
-      <td align="center"><a href="https://github.com/Nirikshan95/stock-news-summarizer" target="_blank">Click here</a></td>
-    </tr>
-    <tr>
-      <td> Product-Review-Analyzer</td>
-      <td>AI-powered tool that extracts pros, cons, summary, and sentiment from product reviews using the DeepSeek-Prover-V2-671B model via a Streamlit interface.</td>
-      <td>Python, langchain, pydantic </td>
-      <td align="center"><a href="https://github.com/Nirikshan95/Product-Review-Analyzer" target="_blank">Click here</a></td>
-    </tr>
-    <tr>
-      <td> AskMyYouTube</td>
-      <td> App that answers questions about any YouTube video using its transcript. Built using Retrieval-Augmented Generation (RAG) with LangChain, vector stores, and LLMs </td>
-      <td>Python, Langchain, RAG, Streamlit</td>
-      <td align="center"><a href="https://github.com/Nirikshan95/AskMyYouTube" target="_blank">Click here</a></td>
-    </tr>
-    <tr>
-      <td> LinkedIn Post Polisher</td>
-      <td>An agent system built with LangGraph to generate, critique, and refine professional LinkedIn posts using reflection pattern.</td>
-      <td>Python, LangGraph, Reflection Agent</td>
-      <td align="center"><a href="https://github.com/Nirikshan95/LinkedIn-Post-Polisher" target="_blank">Click here</a></td>
-    </tr>
-    <tr>
-      <td> Quiz Generator from Text</td>
-      <td>An AI-powered application that generates intelligent quiz questions from any input text using Hugging Face models.</td>
-      <td>Python, Langchain</td>
-      <td align="center"><a href="https://github.com/Nirikshan95/Quiz-Generator-from-Text" target="_blank">Click here</a></td>
-    </tr>
-    
-  </table>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Stock News Summarizer** | Latest summarized news for companies | Python, LangChain, RAG | [View →](https://github.com/Nirikshan95/stock-news-summarizer) |
+| **Product Review Analyzer** | AI-powered review analysis with sentiment | Python, LangChain, Pydantic | [View →](https://github.com/Nirikshan95/Product-Review-Analyzer) |
+| **AskMyYouTube** | Q&A from YouTube transcripts using RAG | Python, LangChain, Streamlit | [View →](https://github.com/Nirikshan95/AskMyYouTube) |
+| **LinkedIn Post Polisher** | Agent system for post generation & refinement | Python, LangGraph | [View →](https://github.com/Nirikshan95/LinkedIn-Post-Polisher) |
+| **Quiz Generator** | AI quiz generation from text | Python, LangChain | [View →](https://github.com/Nirikshan95/Quiz-Generator-from-Text) |
+
 </div>
 
-## 🔥 Featured Repos
-- 🔍 [VettIQ - AI Startup Validator](https://github.com/Nirikshan95/VettIQ)  
+---
+
+##  Notable Repositories
+
+-  **[VettIQ - AI Startup Validator](https://github.com/Nirikshan95/VettIQ)**  
   `LangGraph` · `Streamlit` · `FastAPI` · `DeepSeek`
-- 🔍 [Product Review Analyzer](https://github.com/Nirikshan95/Product-Review-Analyzer)  
-  `LangChain` · `LLM` · `Pydantic` 
-- 🔍 [Defective Products Detection](https://github.com/Nirikshan95/Defective-Products-Detection)  
-  `CNN` · `Deep Learning` · `Neural Networks` · `Computer Vision`
-- 🔍 [Quality Prediction in a Mining Process](https://github.com/Nirikshan95/Quality-Prediction-in-a-Mining-Process)  
-  `Machine Learning` · `Scikit-Learn` · `pandas` · `DataScience`
 
-## 📈 GitHub Stats & Contributions
+-  **[Product Review Analyzer](https://github.com/Nirikshan95/Product-Review-Analyzer)**  
+  `LangChain` · `LLM` · `Pydantic`
+
+-  **[Defective Products Detection](https://github.com/Nirikshan95/Defective-Products-Detection)**  
+  `CNN` · `Deep Learning` · `Computer Vision`
+
+-  **[Quality Prediction in Mining Process](https://github.com/Nirikshan95/Quality-Prediction-in-a-Mining-Process)**  
+  `Machine Learning` · `Scikit-Learn` · `pandas`
+
+---
+
+##  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nirikshan95&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirikshan95&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirikshan95&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirikshan95&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto;"/>
+</div>
+
+---
+
+##  Achievements & Certifications
+
+| Achievement | Description | Year |
+|-------------|-------------|------|
+|  **#100DaysOfAI Challenge** | Completed intensive 100-day AI learning marathon | 2024 |
+|  **Pandas Bootcamp** | Data analysis mastery certification | 2024 |
+|  **ML Internships** | Successfully completed multiple internships | 2024-25 |
+|  **Portfolio Launch** | #100DaysOfAI challenge portfolio website | 2024 |
+|  **AI 'Zero to Hero' Course** | Comprehensive course on Teachable.com | Ongoing |
+|  **Applied AI Lab** | World Quant University hands-on program | Ongoing |
+
+---
+
+##  Current Focus
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7502F&center=true&vCenter=true&width=500&lines=Advanced+AI+Techniques;Deep+Learning+Architectures;Agentic+AI+Systems;LangGraph+%26+LangChain" alt="Typing SVG" />
+</div>
+
+**Learning Areas:**
+-  Advanced AI techniques and emerging technologies
+-  Deep learning and ML architectures
+-  Agentic AI with LangGraph & LangChain
+-  AI research and innovative developments
+
+---
+
+##  Philosophy
+
+<div align="center">
+
+> *"In the world of AI, every line of code is a step towards understanding intelligence itself."*  
+> — **Mahesh Ketam**
+
+</div>
+
+---
+
+##  Let's Connect!
+
+<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirikshan95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirikshan95&layout=compact&langs_count=7&theme=radical" height="180em" alt="Top Languages"/>
-</div>
+**Interested in AI, machine learning, or collaborative innovation?**  
+**I'm always excited to network and explore groundbreaking ideas!**
 
-## 🏆 Achievements & Certifications
+<br>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Achievement</th>
-      <th>Description</th>
-      <th>Date</th>
-    </tr>
-    <tr>
-      <td>🎯 #100DaysOfAI Challenge</td>
-      <td>Completed intensive 100-day AI learning and implementation marathon and achived Badge</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🤖 Pandas Bootcamp</td>
-      <td>Successfully completed intensive pandas and data anlytics boot camp </td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🤖 Machine Learning Internships</td>
-      <td>Successfully completed internships </td>
-      <td>2024 - 2025</td>
-    </tr>
-    <tr>
-      <td>🤖 #100DaysOfAI Portfolio</td>
-      <td>Successfully launched my #100DaysOfAI challenge portfolio website</td>
-      <td>2024 </td>
-    </tr>
-    <tr>
-      <td>📚 AI 'Zero to Hero' Course</td>
-      <td>Developed and launched comprehensive AI learning program on Teachable.com</td>
-      <td>Ongoing</td>
-    </tr>
-    <tr>
-      <td>📚 Applied AI Lab Course</td>
-      <td>Gaining hands-on experience throgh the AI Lab course</td>
-      <td>Ongoing</td>
-    </tr>
-  </table>
-</div>
+<a href="https://linkedin.com/in/mahesh-ketam" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:nirikshan987654321@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Nirikshan95">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+</a>
 
-## 🏆 Key Achievements Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Salary%20Prediction-10%25%20Accuracy%20Boost-success" alt="Salary Prediction Achievement">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Wine%20Quality%20Model-90%25%20Accuracy-important" alt="Wine Quality Model">
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7502F&width=435&lines=Advanced+AI+Techniques;Deep+Learning+Architectures;Cutting-edge+Research+Methods" alt="Learning Focus" />
-</div>
-
-Specific Focus Areas:
-- Advanced AI techniques and emerging technologies
-- Exploring deep learning and advanced machine learning architectures
-- Participating in AI research and innovative project developments
-
-## 🎲 Coding Quote
-
-> "In the world of AI, every line of code is a step towards understanding intelligence itself." - Mahesh Ketam
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote">
-</div>
-
-## 💬 Let's Connect!
-
-<div align="center">
-  <p>**Interested in AI, machine learning, or collaborative innovation? I'm always excited to network and explore groundbreaking ideas!**</p>
-  
-  <a href="https://linkedin.com/in/mahesh-ketam" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:nirikshan987654321@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer">
+  </picture>
   
-  **Thank you for visiting my profile. Stay curious, keep learning!** 😊
+  ** Thank you for visiting! Stay curious, keep learning! **
 </div>
