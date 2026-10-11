@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Featured projects"><style>
+text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
+.name{font-size:108px;font-weight:800;fill:#ECECE6;letter-spacing:2px}
+.ember{fill:#E4FF4A}
+.kick{font-size:15px;font-weight:700;letter-spacing:4px;fill:#8A8F99}
+.sub{font-size:24px;fill:#ECECE6;opacity:.85}
+.mono{font-family:Consolas, 'Courier New', monospace}
+.h2{font-size:44px;font-weight:800;fill:#ECECE6}
+.h3{font-size:24px;font-weight:700;fill:#ECECE6}
+.p{font-size:17px;fill:#ECECE6;opacity:.86}
+.p14{font-size:14px;fill:#ECECE6;opacity:.8}
+.m{font-size:14px;fill:#8A8F99}
+.b{font-size:19px;font-weight:700;fill:#ECECE6}
+.stat{font-size:40px;font-weight:800;fill:#ECECE6}
+.card{fill:#1A1C20;stroke:#30333A;stroke-width:1}
+
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(470px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes tp{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+@keyframes sl{0%{opacity:0}1%{opacity:1}28%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise 1s ease-out both}
+.scan{opacity:.45;animation:scan 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 38s linear infinite}
+.typ{opacity:0;animation:tp 12s ease-in-out infinite}
+.sl{opacity:0;animation:sl 12s ease-in-out infinite}
+.prog{transform-box:fill-box;transform-origin:left center;animation:prog 12s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.8,.2,1) forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease-out forwards}
+.node{opacity:0;animation:fadeup .8s ease-out forwards}
+</style><defs><pattern id="grp" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 44L44 0" fill="none" stroke="#23262C" stroke-width="1"/></pattern></defs><rect width="1200" height="500" rx="28" fill="#101113"/><rect width="1200" height="500" rx="28" fill="url(#grp)"/><text class="kick" x="64" y="62">05 · FEATURED PROJECTS</text><rect class="card" x="64" y="92" width="504" height="112" rx="20"/><text class="mono" x="544" y="128" text-anchor="end" font-size="14" fill="#E4FF4A">01</text><text class="h3" style="font-size:21px" x="90" y="132">Stock News Summarizer</text><text class="p14" x="90" y="160">Latest summarized news for companies</text><text class="mono" x="90" y="186" font-size="13" fill="#A7B8A4">Python, LangChain, RAG</text><rect class="card" x="632" y="92" width="504" height="112" rx="20"/><text class="mono" x="1112" y="128" text-anchor="end" font-size="14" fill="#E4FF4A">02</text><text class="h3" style="font-size:21px" x="658" y="132">Product Review Analyzer</text><text class="p14" x="658" y="160">AI-powered review analysis with sentiment</text><text class="mono" x="658" y="186" font-size="13" fill="#A7B8A4">Python, LangChain, Pydantic</text><rect class="card" x="64" y="222" width="504" height="112" rx="20"/><text class="mono" x="544" y="258" text-anchor="end" font-size="14" fill="#E4FF4A">03</text><text class="h3" style="font-size:21px" x="90" y="262">AskMyYouTube</text><text class="p14" x="90" y="290">Q&amp;A from YouTube transcripts using RAG</text><text class="mono" x="90" y="316" font-size="13" fill="#A7B8A4">Python, LangChain, Streamlit</text><rect class="card" x="632" y="222" width="504" height="112" rx="20"/><text class="mono" x="1112" y="258" text-anchor="end" font-size="14" fill="#E4FF4A">04</text><text class="h3" style="font-size:21px" x="658" y="262">LinkedIn Post Polisher</text><text class="p14" x="658" y="290">Agent system for post generation and refinement</text><text class="mono" x="658" y="316" font-size="13" fill="#A7B8A4">Python, LangGraph</text><rect class="card" x="64" y="352" width="1072" height="112" rx="20"/><text class="mono" x="1112" y="388" text-anchor="end" font-size="14" fill="#E4FF4A">05</text><text class="h3" style="font-size:21px" x="90" y="392">Quiz Generator</text><text class="p14" x="90" y="420">AI quiz generation from text</text><text class="mono" x="90" y="446" font-size="13" fill="#A7B8A4">Python, LangChain</text></svg>

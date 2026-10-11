@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mission statement and philosophy"><style>
+text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
+.name{font-size:108px;font-weight:800;fill:#ECECE6;letter-spacing:2px}
+.ember{fill:#E4FF4A}
+.kick{font-size:15px;font-weight:700;letter-spacing:4px;fill:#8A8F99}
+.sub{font-size:24px;fill:#ECECE6;opacity:.85}
+.mono{font-family:Consolas, 'Courier New', monospace}
+.h2{font-size:44px;font-weight:800;fill:#ECECE6}
+.h3{font-size:24px;font-weight:700;fill:#ECECE6}
+.p{font-size:17px;fill:#ECECE6;opacity:.86}
+.p14{font-size:14px;fill:#ECECE6;opacity:.8}
+.m{font-size:14px;fill:#8A8F99}
+.b{font-size:19px;font-weight:700;fill:#ECECE6}
+.stat{font-size:40px;font-weight:800;fill:#ECECE6}
+.card{fill:#1A1C20;stroke:#30333A;stroke-width:1}
+
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(470px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes tp{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+@keyframes sl{0%{opacity:0}1%{opacity:1}28%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise 1s ease-out both}
+.scan{opacity:.45;animation:scan 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 38s linear infinite}
+.typ{opacity:0;animation:tp 12s ease-in-out infinite}
+.sl{opacity:0;animation:sl 12s ease-in-out infinite}
+.prog{transform-box:fill-box;transform-origin:left center;animation:prog 12s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.8,.2,1) forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease-out forwards}
+.node{opacity:0;animation:fadeup .8s ease-out forwards}
+</style><defs><pattern id="grm" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 44L44 0" fill="none" stroke="#23262C" stroke-width="1"/></pattern></defs><rect width="1200" height="340" rx="28" fill="#101113"/><rect width="1200" height="340" rx="28" fill="url(#grm)"/><text class="kick" x="64" y="62">07 · MISSION</text><text class="h2" x="64" y="132" style="font-size:40px">Transforming complex data into intelligent solutions,</text><text class="h2 ember" x="64" y="184" style="font-size:40px">one model at a time.</text><text class="m" x="64" y="228" style="font-size:18px">Committed to pushing the boundaries of AI and machine learning to solve real-world challenges.</text><line x1="64" x2="1136" y1="262" y2="262" stroke="#30333A"/><text x="64" y="302" font-size="22" font-style="italic" fill="#ECECE6">"In the world of AI, every line of code is a step towards understanding intelligence itself."</text><text class="kick" x="64" y="326" style="fill:#E4FF4A">MAHESH KETAM</text></svg>

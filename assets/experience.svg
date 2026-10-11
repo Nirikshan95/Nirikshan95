@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Professional experience"><style>
+text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
+.name{font-size:108px;font-weight:800;fill:#ECECE6;letter-spacing:2px}
+.ember{fill:#E4FF4A}
+.kick{font-size:15px;font-weight:700;letter-spacing:4px;fill:#8A8F99}
+.sub{font-size:24px;fill:#ECECE6;opacity:.85}
+.mono{font-family:Consolas, 'Courier New', monospace}
+.h2{font-size:44px;font-weight:800;fill:#ECECE6}
+.h3{font-size:24px;font-weight:700;fill:#ECECE6}
+.p{font-size:17px;fill:#ECECE6;opacity:.86}
+.p14{font-size:14px;fill:#ECECE6;opacity:.8}
+.m{font-size:14px;fill:#8A8F99}
+.b{font-size:19px;font-weight:700;fill:#ECECE6}
+.stat{font-size:40px;font-weight:800;fill:#ECECE6}
+.card{fill:#1A1C20;stroke:#30333A;stroke-width:1}
+
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(470px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes tp{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+@keyframes sl{0%{opacity:0}1%{opacity:1}28%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise 1s ease-out both}
+.scan{opacity:.45;animation:scan 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 38s linear infinite}
+.typ{opacity:0;animation:tp 12s ease-in-out infinite}
+.sl{opacity:0;animation:sl 12s ease-in-out infinite}
+.prog{transform-box:fill-box;transform-origin:left center;animation:prog 12s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.8,.2,1) forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease-out forwards}
+.node{opacity:0;animation:fadeup .8s ease-out forwards}
+</style><defs><pattern id="gre" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 44L44 0" fill="none" stroke="#23262C" stroke-width="1"/></pattern></defs><rect width="1200" height="330" rx="28" fill="#101113"/><rect width="1200" height="330" rx="28" fill="url(#gre)"/><text class="kick" x="64" y="62">04 · EXPERIENCE</text><rect class="card" x="64" y="92" width="568" height="210" rx="22"/><rect x="64" y="92" width="6" height="210" rx="3" fill="#E4FF4A"/><text class="h3" x="98" y="142">AI Engineer Intern</text><text x="98" y="174" font-size="18" font-weight="700" fill="#E4FF4A">WitsenseAI</text><text class="m" x="98" y="198">January 2025 to June 2025</text><text x="98" y="238" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="118" y="238">Exploring state-of-the-art AI techniques and tools</text><text x="98" y="264" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="118" y="264">Hands-on experience with GenAI, API development, and deployment</text><text x="98" y="290" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="118" y="290">Transitioning to Agentic AI (LangGraph, LangChain)</text><rect class="card" x="632" y="92" width="568" height="210" rx="22"/><rect x="632" y="92" width="6" height="210" rx="3" fill="#E4FF4A"/><text class="h3" x="666" y="142">Data Science and AI/ML Intern</text><text x="666" y="174" font-size="18" font-weight="700" fill="#E4FF4A">YBI Foundation</text><text class="m" x="666" y="198">March 2023 to September 2023</text><text x="666" y="238" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="686" y="238">Achieved 100% accuracy in iris classification</text><text x="666" y="264" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="686" y="264">Developed wine quality prediction model (90% accuracy)</text><text x="666" y="290" font-size="14" fill="#A7B8A4">▪</text><text class="p14" x="686" y="290">Conducted comprehensive model evaluations</text></svg>

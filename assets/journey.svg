@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Engineering journey timeline 2018 to 2025"><style>
+text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
+.name{font-size:108px;font-weight:800;fill:#ECECE6;letter-spacing:2px}
+.ember{fill:#E4FF4A}
+.kick{font-size:15px;font-weight:700;letter-spacing:4px;fill:#8A8F99}
+.sub{font-size:24px;fill:#ECECE6;opacity:.85}
+.mono{font-family:Consolas, 'Courier New', monospace}
+.h2{font-size:44px;font-weight:800;fill:#ECECE6}
+.h3{font-size:24px;font-weight:700;fill:#ECECE6}
+.p{font-size:17px;fill:#ECECE6;opacity:.86}
+.p14{font-size:14px;fill:#ECECE6;opacity:.8}
+.m{font-size:14px;fill:#8A8F99}
+.b{font-size:19px;font-weight:700;fill:#ECECE6}
+.stat{font-size:40px;font-weight:800;fill:#ECECE6}
+.card{fill:#1A1C20;stroke:#30333A;stroke-width:1}
+
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(470px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes tp{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+@keyframes sl{0%{opacity:0}1%{opacity:1}28%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise 1s ease-out both}
+.scan{opacity:.45;animation:scan 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 38s linear infinite}
+.typ{opacity:0;animation:tp 12s ease-in-out infinite}
+.sl{opacity:0;animation:sl 12s ease-in-out infinite}
+.prog{transform-box:fill-box;transform-origin:left center;animation:prog 12s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.8,.2,1) forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease-out forwards}
+.node{opacity:0;animation:fadeup .8s ease-out forwards}
+</style><defs><pattern id="grt" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 44L44 0" fill="none" stroke="#23262C" stroke-width="1"/></pattern></defs><rect width="1200" height="380" rx="28" fill="#101113"/><rect width="1200" height="380" rx="28" fill="url(#grt)"/><text class="kick" x="64" y="62">03 · JOURNEY</text><path class="draw" d="M150 200 H1050" pathLength="1" fill="none" stroke="#30333A" stroke-width="3"/><g class="node" style="animation-delay:0.30s"><circle cx="150.0" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="150.0" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2018</text><text x="150.0" y="156" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">Tech Foundations</text><text class="m" x="150.0" y="180" text-anchor="middle">HTML, CSS, System Basics</text></g><g class="node" style="animation-delay:0.52s"><circle cx="278.6" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="278.6" y="252" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2019</text><text x="278.6" y="282" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">Programming Core</text><text class="m" x="278.6" y="306" text-anchor="middle">Python and C Mastery</text></g><g class="node" style="animation-delay:0.74s"><circle cx="407.1" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="407.1" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2020</text><text x="407.1" y="156" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">GUI Development</text><text class="m" x="407.1" y="180" text-anchor="middle">Desktop Apps with Tkinter</text></g><g class="node" style="animation-delay:0.96s"><circle cx="535.7" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="535.7" y="252" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2021</text><text x="535.7" y="282" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">Domain Exploration</text><text class="m" x="535.7" y="306" text-anchor="middle">Finding My Passion</text></g><g class="node" style="animation-delay:1.18s"><circle cx="664.3" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="664.3" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2022</text><text x="664.3" y="156" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">CS Fundamentals</text><text class="m" x="664.3" y="180" text-anchor="middle">DSA, OOP, C/C++</text></g><g class="node" style="animation-delay:1.40s"><circle cx="792.9" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="792.9" y="252" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2023</text><text x="792.9" y="282" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">AI Specialization</text><text class="m" x="792.9" y="306" text-anchor="middle">ML Bootcamps and Fundamentals</text></g><g class="node" style="animation-delay:1.62s"><circle cx="921.4" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="921.4" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2024</text><text x="921.4" y="156" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">Project Portfolio</text><text class="m" x="921.4" y="180" text-anchor="middle">Real-World AI Applications</text></g><g class="node" style="animation-delay:1.84s"><circle cx="1050.0" cy="200" r="10" fill="#101113" stroke="#E4FF4A" stroke-width="3"/><text class="mono" x="1050.0" y="252" text-anchor="middle" font-size="24" font-weight="700" fill="#E4FF4A">2025</text><text x="1050.0" y="282" text-anchor="middle" font-size="18" font-weight="700" fill="#ECECE6">Professional AI</text><text class="m" x="1050.0" y="306" text-anchor="middle">GenAI and Agentic Systems</text></g></svg>

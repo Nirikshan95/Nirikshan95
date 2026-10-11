@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="712" viewBox="0 0 1200 712" role="img" aria-label="Skill proficiency bars"><style>
+text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
+.name{font-size:108px;font-weight:800;fill:#ECECE6;letter-spacing:2px}
+.ember{fill:#E4FF4A}
+.kick{font-size:15px;font-weight:700;letter-spacing:4px;fill:#8A8F99}
+.sub{font-size:24px;fill:#ECECE6;opacity:.85}
+.mono{font-family:Consolas, 'Courier New', monospace}
+.h2{font-size:44px;font-weight:800;fill:#ECECE6}
+.h3{font-size:24px;font-weight:700;fill:#ECECE6}
+.p{font-size:17px;fill:#ECECE6;opacity:.86}
+.p14{font-size:14px;fill:#ECECE6;opacity:.8}
+.m{font-size:14px;fill:#8A8F99}
+.b{font-size:19px;font-weight:700;fill:#ECECE6}
+.stat{font-size:40px;font-weight:800;fill:#ECECE6}
+.card{fill:#1A1C20;stroke:#30333A;stroke-width:1}
+
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(470px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes tp{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+@keyframes sl{0%{opacity:0}1%{opacity:1}28%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise 1s ease-out both}
+.scan{opacity:.45;animation:scan 7s linear infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 38s linear infinite}
+.typ{opacity:0;animation:tp 12s ease-in-out infinite}
+.sl{opacity:0;animation:sl 12s ease-in-out infinite}
+.prog{transform-box:fill-box;transform-origin:left center;animation:prog 12s linear infinite}
+.grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.8,.2,1) forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease-out forwards}
+.node{opacity:0;animation:fadeup .8s ease-out forwards}
+</style><defs><pattern id="grs" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 44L44 0" fill="none" stroke="#23262C" stroke-width="1"/></pattern></defs><rect width="1200" height="712" rx="28" fill="#101113"/><rect width="1200" height="712" rx="28" fill="url(#grs)"/><defs><linearGradient id="bar" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#E4FF4A"/><stop offset="1" stop-color="#A7B8A4"/></linearGradient></defs><text class="kick" x="64" y="62">02 · SKILL PROFICIENCY</text><text class="b" x="64" y="130">Machine Learning</text><text class="m" x="64" y="152">Supervised and Unsupervised Learning, Model Evaluation, Feature Engineering</text><rect x="560" y="120" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.00s" x="560" y="120" width="494.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="132" text-anchor="end">95%</text><line x1="64" x2="1136" y1="160" y2="160" stroke="#30333A"/><text class="b" x="64" y="194">Deep Learning</text><text class="m" x="64" y="216">CNNs, RNNs, ANN, Transfer Learning, PyTorch, TensorFlow</text><rect x="560" y="184" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.12s" x="560" y="184" width="468.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="196" text-anchor="end">90%</text><line x1="64" x2="1136" y1="224" y2="224" stroke="#30333A"/><text class="b" x="64" y="258">NLP and LLMs</text><text class="m" x="64" y="280">Transformers, LangChain, RAG, Embeddings, Prompt Engineering</text><rect x="560" y="248" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.24s" x="560" y="248" width="468.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="260" text-anchor="end">90%</text><line x1="64" x2="1136" y1="288" y2="288" stroke="#30333A"/><text class="b" x="64" y="322">Data Science</text><text class="m" x="64" y="344">EDA, Statistical Analysis, Data Cleaning, Visualization (Matplotlib, Seaborn)</text><rect x="560" y="312" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.36s" x="560" y="312" width="442.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="324" text-anchor="end">85%</text><line x1="64" x2="1136" y1="352" y2="352" stroke="#30333A"/><text class="b" x="64" y="386">Agentic AI</text><text class="m" x="64" y="408">LangGraph, Reflection Agents, Custom Toolchains</text><rect x="560" y="376" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.48s" x="560" y="376" width="416.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="388" text-anchor="end">80%</text><line x1="64" x2="1136" y1="416" y2="416" stroke="#30333A"/><text class="b" x="64" y="450">AI Deployment</text><text class="m" x="64" y="472">FastAPI, Docker, Hugging Face Spaces, Streamlit</text><rect x="560" y="440" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.60s" x="560" y="440" width="390.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="452" text-anchor="end">75%</text><line x1="64" x2="1136" y1="480" y2="480" stroke="#30333A"/><text class="b" x="64" y="514">MLOps and Tools</text><text class="m" x="64" y="536">Git, DVC, MLflow (basic), CI/CD</text><rect x="560" y="504" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.72s" x="560" y="504" width="364.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="516" text-anchor="end">70%</text><line x1="64" x2="1136" y1="544" y2="544" stroke="#30333A"/><text class="b" x="64" y="578">Web Search and APIs</text><text class="m" x="64" y="600">Google Search API, SerpAPI, REST APIs</text><rect x="560" y="568" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.84s" x="560" y="568" width="364.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="580" text-anchor="end">70%</text><line x1="64" x2="1136" y1="608" y2="608" stroke="#30333A"/><text class="b" x="64" y="642">Soft Skills</text><text class="m" x="64" y="664">Communication, Teamwork, Documentation, Learning Agility</text><rect x="560" y="632" width="520" height="12" rx="6" fill="#2A2D33"/><rect class="grow" style="animation-delay:0.96s" x="560" y="632" width="338.0" height="12" rx="6" fill="url(#bar)"/><text class="b" x="1136" y="644" text-anchor="end">65%</text></svg>
