@@ -27,6 +27,8 @@ text{font-family:'Segoe UI', Inter, Helvetica, Arial, sans-serif}
 .blob{animation:drift 16s ease-in-out infinite alternate}
 .b2{animation-duration:22s;animation-direction:alternate-reverse}
 @keyframes drift{from{transform:translate(0,0)}to{transform:translate(-70px,44px)}}
+.flow{animation:flowm 6s linear infinite}
+@keyframes flowm{from{stroke-dashoffset:0}to{stroke-dashoffset:-188}}
 .rise{animation:rise 1s ease-out both}
 .scan{opacity:.45;animation:scan 7s linear infinite}
 .spin{transform-box:fill-box;transform-origin:center;animation:spin 26s linear infinite}
