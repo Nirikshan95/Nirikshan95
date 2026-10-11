@@ -2,12 +2,11 @@
 
 <img src="assets/hero.svg" width="100%" alt="Mahesh Ketam, AI Innovator and Machine Learning Maestro">
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nirikshan95&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101113&title_color=E4FF4A&text_color=ECECE6&icon_color=A7B8A4&border_radius=18" alt="GitHub stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirikshan95&layout=compact&langs_count=8&hide_border=true&bg_color=101113&title_color=E4FF4A&text_color=ECECE6&border_radius=18" alt="Top languages" width="49%">
-<br>
-<img src="https://streak-stats.demolab.com/?user=Nirikshan95&background=101113&ring=E4FF4A&fire=E4FF4A&currStreakLabel=E4FF4A&sideLabels=ECECE6&currStreakNum=ECECE6&sideNums=ECECE6&dates=8A8F99&hide_border=true" alt="GitHub streak" width="60%">
+
+<br><br>
+
+<img src="assets/stats.svg" width="100%" alt="GitHub statistics, most used languages and streaks">
 
 <br><br>
 
